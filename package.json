@@ -1,5 +1,5 @@
 {
-  "name": "next-pwa-1",
+  "name": "next-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,10 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "eslint": "8.39.0",
-    "eslint-config-next": "13.3.1",
-    "next": "13.3.1",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "next": "12.1.5",
+    "react": "18.0.0",
+    "react-dom": "18.0.0"
+  },
+  "devDependencies": {
+    "eslint": "8.14.0",
+    "eslint-config-next": "12.1.5"
   }
 }
